@@ -62,8 +62,8 @@ color: #000000;
 
 .foto{
     position: relative;
-    width: 350px;
-    height: 340px;
+    width: 330px;
+    height: 360px;
     left: 50px;
     top: 50px;
     z-index: 100;
@@ -330,8 +330,8 @@ transform: matrix(-1, 0, 0, 1, 0, 0);
 position: absolute;
 width: 555px;
 height: 44px;
-left: 468px;
-top: 480px;
+left: 450px;
+top: 450px;
 
 font-family: 'Crimson Pro';
 font-style: normal;
@@ -367,8 +367,8 @@ color: #000000;
     position: absolute;
     width: 481px;
     height: 44px;
-    left: 510px;
-    top: 480px;
+    left: 550px;
+    top: 450px;
     
     font-family: 'Crimson Pro';
     font-style: normal;
